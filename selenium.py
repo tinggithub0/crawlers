@@ -9,7 +9,7 @@ def openChrome():
     return driver
 
 def login(driver):
-    url = "https://qnaire.ab1.auo.com/zh-hant/node/3949"
+    url = "******"
     driver.get(url)
     # 找到输入框并输入内容
     elem_ID = driver.find_element_by_id("edit-name")
