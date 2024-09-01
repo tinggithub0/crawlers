@@ -4,6 +4,3 @@
 
 ## requests_demo
 
-
-## selenium_demo
-
